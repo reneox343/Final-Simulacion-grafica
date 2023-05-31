@@ -1,0 +1,6 @@
+1.- open the proyect on .\Final Simulacion grafica\Flask simulacion grafica
+2.- open a terminal 
+3.- first you gotta be on the ".\Final Simulacion grafica\Flask simulacion grafica\venv" Folder  on the terminal
+4.- type: .\scripts\Activate.ps1 
+5.- type: flask run
+6.- see the magic happen
